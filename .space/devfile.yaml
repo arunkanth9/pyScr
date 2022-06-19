@@ -1,0 +1,10 @@
+schemaVersion: 2.2.0
+attributes:
+  space:
+    editor:
+      # (Required) IDE type: Idea, WebStorm, PyCharm,
+      # RubyMine, CLion, Fleet, GoLand, PhpStorm, Rider
+      type: Fleet
+      version: Default
+      # release state, e.g. Release or EAP
+      updateChannel: Release
